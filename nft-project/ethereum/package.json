@@ -1,0 +1,32 @@
+{
+  "name": "ethereum",
+  "version": "1.0.0",
+  "description": "test for creating and deploy an nft ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marchounto/my_first_nft_deployment.git"
+  },
+  "keywords": [
+    "NFT",
+    "crypto",
+    "blockchain",
+    "ethereum"
+  ],
+  "author": "Marc HOUNTO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marchounto/my_first_nft_deployment/issues"
+  },
+  "homepage": "https://github.com/marchounto/my_first_nft_deployment#readme",
+  "devDependencies": {
+    "hardhat": "^2.7.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0",
+    "dotenv": "^10.0.0"
+  }
+}
